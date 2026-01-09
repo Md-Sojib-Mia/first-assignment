@@ -1,0 +1,36 @@
+.Early{
+    width: 1360px;
+    height: 384;
+    gap: 24px;
+    padding: 80px 40px;
+    background-color: #F7F6F2;
+    text-align: center;
+    justify-content:center;
+    margin: 0 auto;
+
+}
+
+.Early h1{
+
+    font-size: 40px;
+    font-weight: bold;
+    color: #001931;
+    padding: 10px;
+}
+
+.Early p{
+    color: #627382;
+    padding: 10px;
+}
+
+.Early .endl {
+    align-items: center;
+    display: flex;
+    color: #627382;
+    padding: 10px;
+}
+
+.endl p{
+    gap: 20px;
+}
+
