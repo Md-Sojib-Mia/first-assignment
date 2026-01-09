@@ -1,0 +1,46 @@
+.brains{
+    width: 1360;
+    height: 600;
+}
+
+.brain-containar{
+    padding: 120px;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+
+.brains img{
+    height: 600px;
+    width: 600px;
+    border-radius: 12px;
+    
+}
+
+.texts{
+
+}
+
+.texts h3{
+    color: #30B868;
+    padding: 10px;
+}
+
+.texts h1{
+    font-size: 48px;
+    font-weight: bold;
+    color: #001931;
+    padding: 10px;
+}
+
+.texts p{
+    color: #627382;
+}
+
+.texts ul{
+    width: 700px;
+    height: 128px;
+    list-style-image: url(CheckCircle.png);
+    color: #001931;
+    padding: 20px;
+}
